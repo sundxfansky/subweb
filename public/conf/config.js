@@ -28,5 +28,9 @@ window.config = {
       value: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini',
       text: 'ACL4SSR Online Full',
     },
+    {
+      value: 'https://raw.githubusercontent.com/sundxfansky/FanskyClashRules/refs/heads/main/ACL4SSR_Online.ini',
+      text: 'Tonser',
+    },
   ],
 };
